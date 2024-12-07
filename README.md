@@ -20,7 +20,6 @@ This is my first Advent of Code. I decided to store the answers I provided, hopi
 
 > Warning: These solutions are written by a junior developer with limited knowledge of Java.
 
-<br>
 ## Table of Contents
 
 - [Day 1](https://github.com/AbdelkrimElAyachi/advent-of-code-2024-java/tree/master/day1)
