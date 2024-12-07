@@ -5,11 +5,11 @@ import java.util.Scanner;
 
 class Main {
 
-    public static void main(String[] argv){
+    public static void main(String[] args){
         // getting arguments (the name file containing the input)
         String filename = null;
-        if(argv.length == 1){
-            filename = argv[0];
+        if(args.length == 1){
+            filename = args[0];
         }
         else{
             System.err.println("Error : bad format \ncorrect format >> java Main.java file ");
